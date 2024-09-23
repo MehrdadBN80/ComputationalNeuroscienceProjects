@@ -39,17 +39,22 @@ Your directory name should be ** NAME-STUDENTNUMBER **
 
 and you have to create a directory for each project in your directory
 
-ComputationalNeuroscienceProjects    
-│
-└───Projects
-│   │   
-│   └───AliSaleh-9722053
-|       |      |
-│       │      └───Project1
-│       │      |    project1.py
-│       │      |    project1-report.pdf
-│       │      |
-│       │      └───Project2
-│       │      |    project2.py
-│       │      |    project2-report.pdf
+Here’s the corrected version with improved clarity and formatting:
+
+---
+
+### Upload Format
+
+Your main directory should be named **NAME-STUDENTNUMBER**, and within that directory, create a separate folder for each project. The folder structure should look like this:
+
+```
+ComputationalNeuroscienceProjects/
+└───AliSaleh-9722053/
+    └───Project1/
+    │   ├── project1.py
+    │   └── project1-report.pdf
+    └───Project2/
+        ├── project2.py
+        └── project2-report.pdf
+```
 
