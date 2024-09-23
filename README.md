@@ -53,4 +53,3 @@ ComputationalNeuroscienceProjects
 │       │      |    project2.py
 │       │      |    project2-report.pdf
 
-```
